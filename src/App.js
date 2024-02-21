@@ -17,7 +17,7 @@ import * as MyLayout from './lib/Layout.jsx';
 
 function App() {
   return (
-      <BrowserRouter >
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
       <MyLayout.Layout>
        <Routes>
         <Route path={"/"} element={<Home />}></Route>
