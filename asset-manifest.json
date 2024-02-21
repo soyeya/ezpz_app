@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ezpz_app/static/css/main.35f5db41.css",
-    "main.js": "/ezpz_app/static/js/main.f465df65.js",
+    "main.js": "/ezpz_app/static/js/main.0760c16e.js",
     "index.html": "/ezpz_app/index.html",
     "main.35f5db41.css.map": "/ezpz_app/static/css/main.35f5db41.css.map",
-    "main.f465df65.js.map": "/ezpz_app/static/js/main.f465df65.js.map"
+    "main.0760c16e.js.map": "/ezpz_app/static/js/main.0760c16e.js.map"
   },
   "entrypoints": [
     "static/css/main.35f5db41.css",
-    "static/js/main.f465df65.js"
+    "static/js/main.0760c16e.js"
   ]
 }
