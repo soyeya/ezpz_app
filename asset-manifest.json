@@ -1,20 +1,25 @@
 {
   "files": {
     "main.css": "/ezpz_app/static/css/main.35f5db41.css",
-    "main.js": "/ezpz_app/static/js/main.f564c0c2.js",
+    "main.js": "/ezpz_app/static/js/main.b3089e76.js",
     "static/media/restaurant.png": "/ezpz_app/static/media/restaurant.70172559fb4a6d8c11ce.png",
     "static/media/weather.png": "/ezpz_app/static/media/weather.9e19c062b28fd7d88cd7.png",
     "static/media/trashcan.png": "/ezpz_app/static/media/trashcan.5211db5c200cf691a29f.png",
     "static/media/subway.png": "/ezpz_app/static/media/subway.29aa9a71414abe3f094e.png",
     "static/media/sunny.png": "/ezpz_app/static/media/sunny.8ef8755f97bea1b62e9c.png",
+    "static/media/americanFood.png": "/ezpz_app/static/media/americanFood.c6848af24e22ebfea052.png",
+    "static/media/chinseFood.png": "/ezpz_app/static/media/chinseFood.c14a2d2282e0542f5df1.png",
     "static/media/sunnyclouded.png": "/ezpz_app/static/media/sunnyclouded.2cbbe6196596bcc324e8.png",
+    "static/media/koreanFood.png": "/ezpz_app/static/media/koreanFood.29480164245bb5996dbc.png",
     "static/media/clouded.png": "/ezpz_app/static/media/clouded.e7a45c7fcf4852941853.png",
+    "static/media/japaneseFood.png": "/ezpz_app/static/media/japaneseFood.a1e1b2b4d4cd71f7b0d0.png",
+    "static/media/battery.png": "/ezpz_app/static/media/battery.44619a7d2a4a545a5a00.png",
     "index.html": "/ezpz_app/index.html",
     "main.35f5db41.css.map": "/ezpz_app/static/css/main.35f5db41.css.map",
-    "main.f564c0c2.js.map": "/ezpz_app/static/js/main.f564c0c2.js.map"
+    "main.b3089e76.js.map": "/ezpz_app/static/js/main.b3089e76.js.map"
   },
   "entrypoints": [
     "static/css/main.35f5db41.css",
-    "static/js/main.f564c0c2.js"
+    "static/js/main.b3089e76.js"
   ]
 }
